@@ -15,5 +15,5 @@ Department of Computer Science, Memorial University of Newfoundland
   
   
 References:
-[1] Marc Levoy and Pat Hanrahan. Light field rendering. In Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques, SIG-GRAPH ’96, page 31–42, New York, NY, USA, 1996. Association for Computing Machinery.
+[1] Marc Levoy and Pat Hanrahan. Light field rendering. In Proceedings of the 23rd Annual Conference on Computer Graphics and Interactive Techniques, SIG-GRAPH ’96, page 31–42, New York, NY, USA, 1996. Association for Computing Machinery.  
 [2] Nicholas William Wells. Real-time ray traced cinematic quality light field viewer, 2021. Honours thesis, Memorial University of Newfoundland, Department of Computer Science.
